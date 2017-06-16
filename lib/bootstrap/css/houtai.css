@@ -1,0 +1,19 @@
+body{
+	padding-top: 50px;
+}
+
+#abcd{
+	padding: 20px 0;
+}
+
+.wh64{
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+}
+
+footer{
+	font-weight: 400;
+	text-align: center;
+	padding: 20px;
+}
